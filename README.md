@@ -9,7 +9,7 @@ Site de receitas com uma tela inicial de login com botão de cadastro, lista com
 
 <h3>Como acessar o projeto</h4>
 
-<a href="cookenu.surge.sh">Cookenu</a>
+<a href="https://cookenu.surge.sh/">Cookenu</a>
  
 <h3>Tecnologias utilizadas</h3>
 
